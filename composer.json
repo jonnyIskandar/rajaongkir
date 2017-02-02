@@ -20,8 +20,7 @@
 		"wiki"        : "https://github.com/jonnyIskandar/rajaongkir/wiki"
 	},
 	"require"           : {
-		"php"              : ">=5.4.0",
-		"o2systemjon/o2curl" : "*"
+		"php"              : ">=5.4.0"
 	},
 	"autoload"          : {
 		"files" : [
