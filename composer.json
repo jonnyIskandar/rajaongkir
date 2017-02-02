@@ -1,18 +1,18 @@
 {
-	"name"              : "jonnyIskandar/rajaongkir",
+	"name"              : "jonny-iskandar/rajaongkir",
 	"description"       : "Advanced RajaOngkir API PHP Class",
 	"license"           : "GNU General Public License v3.0 License",
 	"type"              : "php-class",
 	"keywords"          : [ "rajaongkir", "api" ],
 	"authors"           : [
 		{
-			"name"     : "jonnyIskandar",
+			"name"     : "jonny-iskandar",
 			"email"    : "iskandarjonny65@gmail.com",
 			"role"     : "PHP Programmer"
 		}
 	],
 	"support"           : {
-		"email"  : "jonnyIskandar@jonnyIskandar.com",
+		"email"  : "iskandarjonny65@gmail.com",
 		"issues" : "https://github.com/jonnyIskandar/rajaongkir/issues"
 	},
 	"links"             : {
